@@ -1,4 +1,5 @@
-name = input('Enter file:')
+name = '/Users/lunar/Projects/Grojects/words.txt'
+
 handle = open(name, 'r')
 
 counts = dict()
