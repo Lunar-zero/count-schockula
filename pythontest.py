@@ -1,4 +1,4 @@
-x=5
+x=21
 if x<10:
     print('Smaller')
 if x>20:
